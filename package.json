@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "iQuit Backend",
   "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jest/bin/jest.js"
+  },
   "repository": "git@github.com:deathmitri/iQuit-backend.git",
   "author": "Dimitri Wahyudiputra <deathmitri@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^21.2.1"
   }
 }
