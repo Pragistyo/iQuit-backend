@@ -1,2 +1,2 @@
 # iQuit-backend
-Helps you quit your addiction.
+Helps you quit your addiction
