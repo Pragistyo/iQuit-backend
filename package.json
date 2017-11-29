@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:deathmitri/iQuit-backend.git",
   "author": "Dimitri Wahyudiputra <deathmitri@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
 }
