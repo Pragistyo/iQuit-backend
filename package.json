@@ -1,0 +1,9 @@
+{
+  "name": "iQuit-backend",
+  "version": "1.0.0",
+  "description": "iQuit Backend",
+  "main": "index.js",
+  "repository": "git@github.com:deathmitri/iQuit-backend.git",
+  "author": "Dimitri Wahyudiputra <deathmitri@gmail.com>",
+  "license": "MIT"
+}
